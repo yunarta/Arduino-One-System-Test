@@ -1,5 +1,4 @@
 #include <Arduino.h>
-#include "StepFunction.h"
 #include <IdentityShadowThing.h>
 #include <LittleFS.h>
 #include <QualityOfLife.h>
